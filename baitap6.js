@@ -1,0 +1,12 @@
+let num1=Number("5");
+let num2=Number("-1");
+let num3=Number("Hello");
+let str1=String(55);
+let str2=String(-10);
+let str3=String(0);
+document.write("num1 ",typeof(num1));
+document.write("<br>num2 ",typeof(num2));
+document.write("<br>num3 ",typeof(num3));
+document.write("<br>str1 ",typeof(str1));
+document.write("<br>str2 ",typeof(str2));
+document.write("<br>str3 ",typeof(str3));
